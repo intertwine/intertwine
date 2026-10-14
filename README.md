@@ -3,7 +3,7 @@
 I build AI agent systems that have to hold up in production: memory, evaluation, permissions, and human review.
 
 - **Work:** Principal Software Engineer at Expel, building low-latency services over millions of security events and the APIs that put AI into analysts' workflows. A device-health detection model I worked on cut false positives by 40%.
-- **Before:** led a 12-person AI group at MITRE (health analytics, federated learning, differential privacy); director at Asymmetrik, where my team built the first secure open-source FHIR server.
+- **Before:** led an AI group at MITRE (health analytics, federated learning, differential privacy); director at Asymmetrik, where my team built the first secure open-source FHIR server.
 - **Now also:** founder of [Intertwine AI](https://intertwinesys.com/), helping teams turn agents into workflows people can trust.
 - **Writing:** [Code & Context](https://codeandcontext.ai/), field notes on agent memory, evals, and keeping humans in control.
 
